@@ -1,0 +1,11 @@
+CpuTime, PID, StartingBurstTime, EndingBurstTime, CompletionTime
+0,3,123,0,123
+126,7,204,0,330
+333,4,209,0,542
+545,2,222,0,767
+770,8,308,0,1078
+1081,9,333,0,1414
+1417,1,596,0,2013
+2016,5,609,0,2625
+2628,6,814,0,3442
+AverageTurnaroundTime: ,1370.4
